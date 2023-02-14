@@ -1,0 +1,15 @@
+D:\visual studio projects\0x\bin\Debug\0x.exe.config
+D:\visual studio projects\0x\bin\Debug\0x.exe
+D:\visual studio projects\0x\bin\Debug\0x.pdb
+D:\visual studio projects\0x\bin\Debug\Bunifu_UI_v1.52.dll
+D:\visual studio projects\0x\bin\Debug\FastColoredTextBox.dll
+D:\visual studio projects\0x\obj\Debug\0x.csproj.AssemblyReference.cache
+D:\visual studio projects\0x\obj\Debug\0x.csproj.SuggestedBindingRedirects.cache
+D:\visual studio projects\0x\obj\Debug\_0x.Form1.resources
+D:\visual studio projects\0x\obj\Debug\_0x.Properties.Resources.resources
+D:\visual studio projects\0x\obj\Debug\0x.csproj.GenerateResource.cache
+D:\visual studio projects\0x\obj\Debug\0x.csproj.CoreCompileInputs.cache
+D:\visual studio projects\0x\obj\Debug\0x.csproj.CopyComplete
+D:\visual studio projects\0x\obj\Debug\0x.exe
+D:\visual studio projects\0x\obj\Debug\0x.pdb
+D:\visual studio projects\0x\bin\Debug\WeAreDevs_API.dll
