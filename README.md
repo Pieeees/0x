@@ -9,3 +9,9 @@ You maybe have heard of it before, have you? Yeah, it used to be an exploit back
 Incase you have any questions or faced an issue while using it, then here is the 0x discord server to answer your questions: https://discord.gg/pAdZGavz
 
 ![Image of 0x](https://i.imgur.com/5K0UwFy.png?dl=0)
+
+the source code of the old 0x ( 2018 - 2022 ] was lost so i decided to create a new one with the same name
+
+![Image of 0x](https://i.imgur.com/YY8nbVs.png?dl=0)
+
+the image above is the new version and the image below is the old 0x
