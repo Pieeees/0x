@@ -152,6 +152,7 @@ namespace _0x
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            label5.Refresh();
             label2.Text = DateTime.Now.ToString();
         }
 
