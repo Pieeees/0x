@@ -1,3 +1,3 @@
 # 0x
 roblox 0x exploit
-being written by AntiPieBoy
+being written by AntiPie
