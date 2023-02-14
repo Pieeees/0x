@@ -10,7 +10,7 @@ Incase you have any questions or faced an issue while using it, then here is the
 
 ![Image of 0x](https://i.imgur.com/5K0UwFy.png?dl=0)
 
-the source code of the old 0x ( 2018 - 2022 ] was lost so i decided to create a new one with the same name
+the source code of the old 0x ( 2018 - 2022 ] was lost so I decided to create a new one with the same name
 
 ![Image of 0x](https://i.imgur.com/YY8nbVs.png?dl=0)
 
