@@ -19,4 +19,6 @@ the image above is the new version and the image below is the old 0x
 
 ## here is 0x 2020 when it still was named "PloitExTwo"
 
+totally ugly and cheap lol
+
 ![Image of 0x](https://i.imgur.com/9LDmkhF.png?dl=0)
