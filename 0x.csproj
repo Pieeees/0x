@@ -52,10 +52,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Bunifu_UI_v1.52">
-      <HintPath>C:\Users\pyclo\Desktop\WorkStation\tmp\0x\Bunifu_UI_v1.52.dll</HintPath>
+      <HintPath>C:\</HintPath>
     </Reference>
     <Reference Include="FastColoredTextBox">
-      <HintPath>C:\Users\pyclo\Desktop\WorkStation\tmp\0x\FastColoredTextBox.dll</HintPath>
+      <HintPath>C:\</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
