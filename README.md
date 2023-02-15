@@ -22,3 +22,8 @@ the image above is the new version and the image below is the old 0x
 totally ugly and cheap lol
 
 ![Image of 0x](https://i.imgur.com/9LDmkhF.png?dl=0)
+
+## here an even older version when it still was named "PloitEx"
+its even uglier
+
+![Image of 0x](https://i.imgur.com/jrzOMXh.png?dl=0)
