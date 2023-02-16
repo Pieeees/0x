@@ -1,3 +1,7 @@
+## Download
+https://github.com/Pieeees/0x/releases/tag/0.2
+
+
 # 0x
 Aren't you bored of the Roblox exploits that always require a lot of keys and 30s unskippable ads? Well, here is a Roblox exploit that doesn't require any of these, besides it's open source!
 
