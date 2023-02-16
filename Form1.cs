@@ -238,7 +238,7 @@ namespace _0x
 
         private void button18_Click(object sender, EventArgs e)
         {
-            string username = textBox1.ToString();
+            string username = textBox1.Text;
             api.TeleportToPlayer(username);
         }
 
