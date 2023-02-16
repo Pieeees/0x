@@ -129,6 +129,8 @@ namespace _0x
         private void button6_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+            saveFileDialog1.DefaultExt = "txt";
+            saveFileDialog1.AddExtension = true;
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 using (Stream s = File.Open(saveFileDialog1.FileName, FileMode.CreateNew))
