@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,7 +33,7 @@ namespace _0x
             api.IsUpdated();
             WebClient webclientupdate = new WebClient();
             WebClient WebClient = new WebClient();
-            if (!webclientupdate.DownloadString("https://pastebin.com/raw/2qWU0HQv").Contains("0.2"))
+            if (!webclientupdate.DownloadString("https://pastebin.com/raw/2qWU0HQv").Contains("0.3"))
 
                 if (MessageBox.Show("New Upate\nyou want to download it?", "New update", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
@@ -109,6 +109,7 @@ namespace _0x
 
         private void button7_Click(object sender, EventArgs e)
         {
+            timer2.Start();
             label5.Refresh();
             api.IsUpdated();
             api.LaunchExploit();
@@ -132,6 +133,7 @@ namespace _0x
             saveFileDialog1.DefaultExt = "txt";
             saveFileDialog1.AddExtension = true;
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+
             {
                 using (Stream s = File.Open(saveFileDialog1.FileName, FileMode.CreateNew))
                 using (StreamWriter sw = new StreamWriter(s))
@@ -246,7 +248,13 @@ namespace _0x
 
         private void button19_Click(object sender, EventArgs e)
         {
-            api.SendLuaScript("loadstring(game:HttpGet(('https://pastebin.com/raw/kHe8NhT6'),true))()");
+            api.SendLuaScript(new WebClient().DownloadString("https://pastebin.com/raw/kHe8NhT6"));
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            label5.Update();
+            label5.Refresh();
         }
     }
 }
