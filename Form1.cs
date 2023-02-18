@@ -25,6 +25,10 @@ namespace _0x
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            listBox1.Refresh();
+            listBox1.Items.Clear();
+            Functions.PopulateListBox(listBox1, "./scripts", "*.txt");
+            Functions.PopulateListBox(listBox1, "./scripts", "*.lua");
             Directory.CreateDirectory("scripts");
             checkinjected();
             panel2.Hide();
