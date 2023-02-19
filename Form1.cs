@@ -83,6 +83,16 @@ namespace _0x
                 {
 
                 }
+                try
+                {
+                    System.Media.SoundPlayer player3 = new System.Media.SoundPlayer();
+                    player3.SoundLocation = "bg.wav";
+                    player3.PlayLooping();
+                }
+                catch (Exception)
+                {
+
+                }
             }
         }
 
