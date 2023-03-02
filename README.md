@@ -35,4 +35,4 @@ its even uglier
 ![Image of 0x](https://i.imgur.com/jrzOMXh.png?dl=0)
 
 ## Donations
-if you want to donate this project message Pie#0565 :)
+if you want to donate this project message Pie#0565 
