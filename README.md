@@ -1,3 +1,7 @@
+##the exploit API "WRD" currently dont work but it may get fixed Soon
+https://forum.wearedevs.net/t/34836
+
+
 ## Download
 https://github.com/Pieeees/0x/releases/tag/0.2
 
