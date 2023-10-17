@@ -1,4 +1,4 @@
-##the exploit API "WRD" currently dont work but it may get fixed Soon
+## the exploit API "WRD" currently dont work but it may get fixed Soon
 https://forum.wearedevs.net/t/34836
 
 
