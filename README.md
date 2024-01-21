@@ -1,5 +1,5 @@
 ## the exploit API "WRD" currently dont work but it hopefully get fixed soon
-https://forum.wearedevs.net/t/34836
+https://forum.wearedevs.net/c/8
 
 
 ## Download
